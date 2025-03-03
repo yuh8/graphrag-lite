@@ -1,0 +1,442 @@
+Professional Services Agreement
+
+This is an agreement dated 15 April 2016 
+
+Parties
+
+Acme Consulting Limited of 11 Lime Street, London, United Kingdom (“Supplier”); and
+
+The London Group Limited of 11 Bank Street, Canary Wharf, London, United Kingdom (“Customer”).
+
+Background
+
+Customer wishes to obtain Services from Supplier.
+
+Supplier has agreed to provide Services to Customer on the terms and conditions of this agreement.
+
+Agreement
+
+Definitions
+
+In this agreement, certain words with the first letter in capitals have a particular meaning. The meaning of these defined terms can be found where the words appear in a bold, italic font.
+
+Agreed Interest Rate means 10% per annum.
+
+Approved Purpose means any purposes directly connected with the performance of this agreement.
+
+Business Hours means 9 am to 6 pm, Monday to Friday, excluding public holidays.
+
+Confidential Information of a party:
+
+means all financial, technical, marketing, commercial, research and other information of or disclosed by that party, in a material form or otherwise, which a reasonable person would treat as confidential; and
+
+includes any copies, reproductions or records of or based on that information.
+
+Contract Fees means the fees payable to Supplier for providing Services under this agreement, details of which are set out in Schedule 2.
+
+Deliverables means any deliverables to be provided to Customer by Supplier as part of the Services.
+
+Existing Material means any material that existed prior to the date of this agreement.
+
+Harm means any loss, damage, costs (including reasonable legal costs), expense or liability.
+
+Intellectual Property Rights means all intellectual and industrial property rights, including rights protected or recognised under copyright, patent, petty patent, design, trade mark, service mark, semiconductor, circuit layout, plant variety, planter breeder, confidentiality, trade secret, database or any similar laws.
+
+Key Personnel means the members of Supplier's personnel named in Schedule 3, as amended in accordance with this agreement.
+
+New Contract Material means any new material created under this agreement.
+
+Services means the services to be provided by Supplier to Customer under this agreement, including the services described in Schedule 1.
+
+Services
+
+From time to time during the term of this agreement, Customer may request Supplier to provide Services by making a written request with details of the work to be completed.
+
+On receipt of a written request from Customer, Supplier must promptly notify Customer whether it accepts or declines Customer's request for Services.
+
+When providing Services, Supplier must:
+
+comply at all times with all applicable laws, regulations and industry codes; and
+
+comply with any reasonable directions given by Customer that relate to the provision of the Services.
+
+Supplier is appointed as Customer's exclusive supplier of Services.  However, Customer may procure from a third party any Services that Supplier fails or declines to supply.
+
+Payment
+
+Customer must pay Supplier the Contract Fees in accordance with this agreement.
+
+Supplier may invoice Customer for Contract Fees as they become due under Schedule 2.
+
+Customer must pay:
+
+Supplier's correctly rendered invoices within 45 days after receipt; and
+
+interest on any overdue payments at the Agreed Interest Rate or the highest lawful rate permitted under applicable law.
+
+If Customer does not pay an invoice by the due date, Supplier may, in addition to any other rights or remedies it has, suspend performance of all or part of the agreement.
+
+Supplier may increase the Contract Fees on 60 days written notice to Customer if Customer breaches or fails to perform its obligations under this agreement and that breach or failure increases Supplier's costs of providing the Services.  Any increase of Contract Fees under this provision must not exceed the increase in Supplier's costs resulting from Customer's breach or failure.
+
+Customer Obligations
+
+Customer must:
+
+provide Supplier with information reasonably requested in connection with the performance of the Services;
+
+ensure that its personnel are available to work with Supplier where necessary to the performance of the Services; and
+
+make available to Supplier reasonable work space and facilities for use when performing Services at Customer's premises.
+
+Key Personnel
+
+Supplier must ensure that the Key Personnel are directly involved in the provision of Services.
+
+Supplier must not remove or replace any member of the Key Personnel unless:
+
+that person has become ill or is otherwise unable to work;
+
+that person no longer works for Supplier; or
+
+Customer has given its prior written approval.
+
+Intellectual Property
+
+The Parties intend that all Intellectual Property Rights in New Contract Material (Contract IPR) will be owned by Customer.  Subject to payment of Contract Fees, Supplier assigns to Customer all of its existing and future Intellectual Property Rights in New Contract Material.  Supplier must on request do all things necessary to give effect to this assignment.  As a condition of assignment, Customer grants to Supplier an irrevocable, non-exclusive license to use, reproduce and adapt the Contract IPR for Supplier's internal purposes. Notwithstanding any other provision of this agreement, Supplier retains ownership of its IPR in any Existing Material (Background IPR).  However, Supplier grants to Customer an irrevocable, non-exclusive license to use, reproduce and adapt any Background IPR and Retained IPR to the extent necessary to allow Customer to exercise its rights in New Contract Material.
+
+Supplier warrants that to the best of its knowledge: (a) the New Contract Material does not infringe the Intellectual Property Rights of any person; and (b) Customer's use of the New Contract Material as contemplated by this agreement will not infringe the Intellectual Property Rights of any person.
+
+Confidentiality
+
+In relation to Customer's Confidential Information, Supplier must:
+
+keep the information confidential;
+
+adopt security measures in relation to the information that are at least as good as it would adopt for its own confidential information;
+
+only disclose or provide the information to those with a need to know for the purposes of this agreement;
+
+only use the information for an Approved Purpose; and
+
+notify Customer immediately if it becomes aware of any unauthorised use, copying or disclosure of the information.
+
+Supplier may only disclose Customer's Confidential Information to:
+
+its directors, officers and employees who have a agreed to comply with the confidentiality obligations in this agreement;
+
+its professional advisers who have agreed to comply with the confidentiality obligations in this agreement; or
+
+its contractors, subcontractors or consultants who have signed confidentiality undertakings in an agreed form.
+
+Supplier must not copy Customer's Confidential Information, unless those copies are clearly marked as confidential.
+
+This clause does not affect Supplier's use, disclosure, copying or retention of information that:
+
+is freely available in the public domain;
+
+Supplier can clearly show was independently known by it (other than through a breach of confidentiality) prior to disclosure under this agreement; or
+
+Supplier is required by law to disclose or retain.
+
+Within 3 days after any written request from Customer, Supplier must:
+
+at Customer's option, return or destroy all copies of Customer's Confidential Information in its possession or control; and
+
+if requested by Customer, give Customer a signed letter certifying compliance with the previous paragraph.
+
+Supplier's obligations of confidentiality apply during the term of this agreement and continue for three years after the agreement ends.
+
+Performance Warranty
+
+ Supplier warrants that:
+
+it will perform this agreement in a professional manner;
+
+it will comply at all times with all applicable laws; and
+
+the Deliverables will be free from defects in materials and workmanship.
+
+The warranties given under this clause apply during the term of this agreement and for 6 months after completion of the Services.
+
+Exclusion and Limitation
+
+Warranty Exclusion
+
+Supplier excludes all express and implied representations and warranties other than the specific written warranties included in this agreement.
+
+Limited Remedy
+
+Supplier limits its liability for breach of any warranty (including any implied warranty that cannot lawfully be excluded) to resupplying, repairing or providing a refund for the part of any goods or services that gave rise to the breach.
+
+Liability Exclusion
+
+Notwithstanding any contrary provision in this agreement, Supplier excludes all liability for loss of profits, loss of data, loss of business opportunity, and any other indirect or consequential loss or damage, including loss or damage caused by Supplier's negligence.
+
+Liability Cap
+
+Notwithstanding any contrary provision in this agreement, Supplier limits its total liability under or in connection with this agreement to an amount equal to an amount of GBP 1,000,000.00.
+
+Indemnity
+
+Indemnification
+
+Each party (Indemnifying Party) irrevocably indemnifies the other party from and against all Harm suffered by or awarded against the other party as a result of any negligence, breach of contract, or other wrongful or unlawful conduct on the part of the Indemnifying Party.
+
+Mitigation
+
+The Indemnifying Party is not liable to indemnify the other party to the extent that any negligence, breach of contract, wrongful or unlawful conduct, or failure to mitigate on the part of the other party contributed to the Harm suffered by that other party.
+
+Insurance
+
+Supplier must maintain commercially prudent policies of insurance to cover its potential liabilities under or in connection with this agreement, including:
+
+all workers' compensation insurance required by law
+
+public liability insurance to cover claims up to ($5m) five million dollars each year 
+
+professional indemnity insurance to cover claims up to ($5m) five million dollars each year
+
+any other policies agreed by the parties in writing.
+
+Supplier must ensure that the insurance policies required under this clause:
+
+are current, paid-up and valid during the term of this agreement; and
+
+cover all claims arising during the term of this agreement.
+
+Dispute Resolution
+
+The parties intend that any dispute, controversy or claim arising out of or relating to this agreement, its subject matter, or the breach, termination or invalidity of this agreement (Dispute) will be dealt with in accordance with this clause.
+
+If a party believes that a Dispute has arisen, it must promptly provide any other parties with a written notice setting out material details of the Dispute.
+
+The parties must not start arbitration or court proceedings in relation to a Dispute until they have followed the alternative dispute resolution procedures set out in this clause.
+
+On receipt of a notice of Dispute, the parties must use their best efforts, in good faith, to resolve the Dispute by negotiation and must include in those negotiations a director, officer or senior manager with full authority to settle the dispute, being someone with no direct involvement in the circumstances leading up to the dispute.
+
+If the Dispute is not resolved by negotiation within 21 days (or longer period agreed by the parties), the parties must refer the dispute for resolution by mediation in accordance with  the Rules of Conciliation of the International Chamber of Commerce.  The mediator must be a person acceptable to each party.  The costs of the mediator will be shared equally by the parties.
+
+If the Dispute is not resolved by mediation within 21 days (or longer period agreed by the parties), a party may give written notice terminating the mediation and may commence proceedings to resolve the Dispute in a court of competent jurisdiction.
+
+Nothing in this clause prevents a party from seeking urgent interim or interlocutory relief in a court or tribunal that has jurisdiction to grant that relief.
+
+Each party:
+
+must treat information disclosed to it by any other party during the Dispute resolution process as confidential and must only use that information for the purpose of resolving or attempting to resolve the Dispute; and
+
+is responsible for its own costs of participating in this Dispute resolution process.
+
+Term and Termination
+
+This agreement starts on the date specified at the beginning of the agreement and continues for an initial term of twelve (12) months (Initial Term), unless terminated earlier in accordance with this agreement.
+
+At the end of the Initial Term (and any further term agreed in writing by the parties), this agreement will terminate automatically, unless the parties agree in writing to extend the agreement for a further term.
+
+Without limiting any other rights it may have, a party may immediately terminate this agreement by giving notice to the other party if the other party:
+
+breaches a material provision of this agreement and fails to remedy the breach within 30 days after receiving a notice requiring it to remedy the breach;
+
+is unable to pay its debts as they become due from its own money, or otherwise becomes insolvent or bankrupt;
+
+becomes subject to any form of external insolvency, bankruptcy or similar administration;
+
+stops carrying on business; or
+
+disposes of all or a substantial part of its assets, operations or business.
+
+A party may terminate this agreement without cause by giving at least 6 months written notice to the other party.
+
+After Termination
+
+Termination of this agreement does not affect the accrued rights and remedies of either party.
+
+Subcontractors
+
+Supplier must not subcontract all or part of the performance of this agreement to any person without the prior written consent of Customer.
+
+Whether or not Customer has consented to a subcontractor, Supplier remains fully liable for the acts and omissions of all subcontractors engaged by it in connection with this agreement as if those acts or omissions were its own.
+
+Supplier must ensure that any subcontractors comply at all times with the provisions of this agreement.
+
+Recruitment of Personnel
+
+A party must not, during the term of this agreement and for 6 months after it ends, induce or encourage any employee or contractor of another party to terminate their employment or engagement with that other party.
+
+If, during the term of this agreement and for 6 months after it ends, a party (First Party) employs or engages any employee or contractor of another party, the First Party must pay that other party a recruitment fee equal to 50% of the gross annual salary or contract fee of the employee or contractor immediately prior to termination of their employment or engagement with the other party.
+
+Relationship
+
+This agreement does not create a relationship of employment, agency or partnership between the parties.
+
+Publicity
+
+A party must not make any public statement or engage in any other form of publicity in connection with this agreement without the prior written consent of the other party.  Unless otherwise agreed, any publicity relating to this agreement will carried out jointly by all parties.  This clause does not apply to any public statement that a party is required by law to make.
+
+Exercise of Discretions
+
+Any discretions a party has under or in connection with this agreement must be exercised in a prompt and reasonable manner.
+
+Inconsistency and Precedence
+
+If the documents making up this agreement are inconsistent or conflicting, a document listed earlier in the following list takes priority over any document listed below it:
+
+the document setting out these main terms and conditions;
+
+any Schedules;
+
+any Attachments; and
+
+any other document incorporated by reference.
+
+General
+
+Agreement Subject to Applicable Laws
+
+The provisions of this agreement (including all rights, obligations, exclusions and limitations) apply only to the extent permitted under applicable laws.
+
+Amendment
+
+Any amendment to this agreement must be in writing and signed by both parties.
+
+Assignment and Novation
+
+A party must not assign or novate any of its rights, obligations or interest under this agreement without the prior written consent of the other party.
+
+Costs of Preparation
+
+Each party is responsible for its own costs in relation to the preparation and negotiation of this agreement.
+
+Counterparts
+
+This agreement may be executed in any number of counterparts and, when all counterparts have been executed and exchanged in the same form, they will make up a single agreement.
+
+Entire Agreement
+
+This agreement is the entire agreement between the parties in relation to its subject matter, and replaces all previous agreements, understandings and arrangements in relation to the same subject matter.
+
+Force Majeure
+
+A party (Affected Party) is not liable for any failure or delay in the performance of this agreement to the extent that the failure or delay is caused by circumstances beyond its reasonable control (including natural disasters, riots, strikes and wars), provided that the other party is promptly notified of those circumstances and immediate steps are taken by the Affected Party to mitigate the negative impact of those circumstances.  If the circumstances continue for longer than 30 days the unaffected party may terminate this agreement by giving 30 days notice to the other party.
+
+Further Action and Co-operation
+
+Each party must:
+
+do everything necessary to give effect to its performance of this agreement;
+
+not knowingly do anything to frustrate or hinder the performance of this agreement;
+
+co-operate with the other party in the performance of this agreement; and
+
+ensure that its officers, employees, contractors and other personnel co-operate with the officers, employees, contractors and other personnel of the other party in the performance of this agreement.
+
+Governing Law
+
+This agreement is governed by the laws of England and Wales.
+
+Jurisdiction
+
+Each party irrevocably submits to the non-exclusive jurisdiction of the courts of England and Wales.
+
+Interpretation
+
+In this agreement, unless contrary to common sense:
+
+headings are not intended to affect the meaning of any clause and must be disregarded when interpreting the agreement;
+
+any reference to a person is intended to cover an individual, a company or any other recognised legal entity;
+
+any reference to a specific gender includes any other gender;
+
+any reference to the singular includes the plural and any reference to the plural includes the singular; and
+
+monetary amounts are expressed in the currency indicated, or, if no currency is indicated, in Pounds Sterling.
+
+Notices
+
+Any notice to be given under or in connection with this agreement must be given in writing, in English, and posted, hand delivered, faxed or emailed to the intended recipient at the address or number specified in this agreement (or any new address or number properly notified).  Notices given in this way will be deemed received 5 business days after posting (if posted), on delivery (if hand delivered during Business Hours), when the sender's fax machine confirms that all pages of the fax were properly transmitted (if faxed), or when the sender's email system receives a 'message received' confirmation from the intended recipient (if emailed).
+
+Set Off and Deductions
+
+A party may not deduct from or set off against any amount it is required to pay to the other party any amount payable, or which it claims is payable, by that other party to it.
+
+Severance
+
+If a provision of this agreement is held by a court to make all or part of the agreement illegal, void or unenforceable, the offending provision will be severed from the agreement to the extent and in the manner that best gives effect to the remaining provisions.
+
+Survival
+
+Any accrued rights and remedies of a party will survive termination or expiry of this agreement.
+
+Waiver
+
+A waiver of any breach or non-performance of this agreement will only be effective if it is written and signed by the party giving the waiver, and only to the extent specified.
+
+Executed as an agreement
+
+For and on behalf of Acme Consulting Limited:
+
+ 
+
+For and on behalf of The London Group Limited:
+
+By:
+
+........................................
+
+ 
+
+By:
+
+........................................
+
+Its:
+
+........................................
+
+ 
+
+Its:
+
+........................................
+
+Date:
+
+........................................
+
+ 
+
+Date:
+
+........................................
+
+Services
+
+Research business risk factors for X corp, and prepare a report that provides an overview of overall risk, benchmarked against peers 
+
+Contract Fees and Payment
+
+Fees of GBP 250.00 per hour for two consultants, up to 20 hours per week, until completion of Research Report Alpha, regarding business risk factors, to be invoiced monthly in arrears. 
+
+Key Personnel
+
+Name
+
+Role
+
+Jane Jamieson
+
+Lead Consultant
+
+
+
+ 
+
+Page 1 
+
+ 
+
+Page 12 
+
+Agreement between Supplier and Customer
+

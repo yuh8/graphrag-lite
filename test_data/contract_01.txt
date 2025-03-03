@@ -1,0 +1,2252 @@
+Exhibit 10.38
+
+MASTER SERVICES AGREEMENT
+
+     THIS MASTER SERVICES AGREEMENT (“Agreement”) is made and entered into effective January 27th, 2005 (the “Effective Date”), by and between NURA, Inc. (hereinafter “Nura”), having a place of business at 1124 Columbia Street, Seattle WA, 98104, USA, and ComGenex, Inc. (hereinafter “ComGenex” or “CGX), having a place of business at Zahony u 7, H-1031 Budapest, Hungary, altogether referred to as Parties. 
+
+     WHEREAS, Nura is engaged in the discovery and development of active substances against diseases of the central nervous system and is planning to outsource a specific project that involves the molecular target of Phosphodiesterase enzyme 10 (“PDE10” or “PDE10a”) as described in Appendix A, and 
+
+     WHEREAS, ComGenex is engaged in the business of providing complex drug discovery services including but not limited to molecular biology, protein expression, assay development and high throughput screening, chemical research and analysis, chemistry consulting, chemical synthesis, manufacturing of specialty chemical products, chemoinformatics and related services, and undertakes such as an independent company, understanding that neither ComGenex nor its employees or agents shall be considered an employee of Nura; nor a participant in any programs, insurance or other benefits extended to Nura’s employees; and, 
+
+     NOW, THEREFORE, in consideration of the mutual covenants set forth below, the Parties hereby agree as follows: 
+
+     A. ComGenex Services: ComGenex shall provide to Nura complex drug discovery research services (“Services”), including as detailed above and as agreed upon in writing from time to time by the parties and set forth in Appendix B for each such project (the “Projects”). The parties acknowledge and accept that successful completion of all projects is not guaranteed but shall be completed by ComGenex on a best efforts basis. Nura and ComGenex shall agree upon, and specify in the Appendix B the parameters of the Projects, the compensation to be paid for the Services, and the time frame in which the Services are to be provided, subject to the terms of this Agreement. Such Services may include, but are not limited to, the following: 
+
+          1. Molecular Biology Services: ComGenex shall provide to Nura at Nura’s request and as described in Appendix B, cloning and protein expression, assay development, high throughput screening, and protein structure determination. 
+
+          2. Medicinal Chemistry Research Services: ComGenex shall provide to Nura at Nura’s request advice on design and synthesis of organic compounds, and for the completion of the manufacture of such organic compounds. 
+
+          3. Technical Assistance: ComGenex shall provide to Nura, at Nura’s request synthetic chemical research, chemical library preparation, hit/lead evolution and/or optimization chemistry, analysis and analytical method development, process development and process optimization studies, and manufacturing of specialty chemicals. 
+
+ 
+
+
+
+
+
+
+
+†
+
+ 
+
+
+
+
+
+ 
+
+          4. Technical Consultations: ComGenex shall be available to Nura via telephone at such times as are requested by Nura and are mutually agreeable to ComGenex for technical consultations with Nura’s research and development personnel. 
+
+     B. Specific Duties of ComGenex: 
+
+          1. In assuming responsibility for undertaking this Agreement, ComGenex will, on a best efforts basis: 
+
+               a) Perform molecular biology, chemistry and complex drug discovery services including protein expression, assay development, high throughput screening, medicinal chemistry, chemistry consulting, synthetic chemical research, combinatorial chemical synthesis, hit/lead evolution and optimization chemistry, process development and process optimization studies, and manufacturing of specialty chemicals for any Projects entered into, as described in Appendix B attached hereto. 
+
+               b) Provide technical consultation, technical assistance and product development assistance, as defined, for any Projects entered into. 
+
+               c) Develop or utilize existing analytical methods that will allow determination of the identity and quantification of the purity of any compounds delivered. 
+
+               d) Provide compounds in the time frame set forth in Appendix B attached hereto, and immediately notify Nura if any delays are encountered. 
+
+          2. In assuming responsibility for undertaking this Agreement, ComGenex will: 
+
+               a) Interact with Nura’s scientists as is deemed by ComGenex reasonably necessary and appropriate in the conduct of the Projects outlined in Appendix B. 
+
+               b) Provide as part of the Project research reports to Nura describing the results upon the completion of individual Projects. 
+
+     C. Specific Duties of Nura: Nura will: 
+
+          1. Provide assistance such as is deemed reasonable and appropriate by Nura in the conduct of a fully integrated research project team effort. 
+
+          2. Interact with and communicate with ComGenex reasonably and respond to all reasonable requests to provide necessary and appropriate Project guidance. 
+
+          3. Agree to pay ComGenex for the Services to be performed by ComGenex as set forth in the schedule of payments as shown in Appendix C. 
+
+ 
+
+
+
+
+
+
+
+†
+
+ 
+
+
+
+
+
+ 
+
+     D. Term and Termination: 
+
+          1. This Agreement shall commence on the Effective Date and shall terminate eighteen months after the Effective Date; provided however that Nura may elect to extend this Agreement for up to an additional 18 months by written notification to ComGenex. Extension of this Agreement shall be subject to future written Agreement. 
+
+          2. The representations and warranties contained in this Agreement, as well as those rights and/or obligations contained in the terms of this Agreement which by their intent or meaning have validity beyond the term hereof, including without limitation Sections D, E, H, and I hereof, shall survive the expiration or termination of this Agreement. 
+
+     E. Financials: 
+
+          1. Nura will pay to ComGenex the amount set forth, and at the indicated times set forth in Appendix C. Nura will pay to ComGenex a first installment to help to cover the running cost of Projects (“Cost Coverage”), and Nura will pay a milestone fee (“Milestone Fee’) upon completion of each individual subprojects — both as described in Appendix C. 
+
+          2. The Cost Coverage component in each Project will be paid in monthly installments as listed in the Appendix C. Unless otherwise agreed in writing by the parties, Nura will not be obliged to pay any Cost Coverage beyond that specified in Appendix C, including those cases in which a project is not completed within the period shown in Appendix B. However once a milestone is reached and achieved, Nura shall pay the milestone fee (“Milestone Fee”) as set forth in Appendix C. 
+
+          3. To cover the start and initiation of the Projects, Nura will pay a down-payment of [†] within 15 days of the Effective Date. This down-payment will be credited using the following payment schedule: Each invoice issued by ComGenex will be reduced by 25% until the down-payment is fully eliminated, as described in Appendix C. 
+
+          4. In addition to the above payment obligations Nura or any of its licensees will pay to ComGenex the following development related milestone fees for any and each compounds, chemical entity or active substance, specifically developed under this Agreement that enters preclinical or clinical development or any of the above representing the therapeutically active part of an experimental pharmaceutical product developed under this Agreement that enters preclinical or clinical development. For clarity, for any single compound, chemical entity or active substance that reaches the listed milestone below, the associated fee shall be paid only once to ComGenex, by either Nura or a licensee of Nura, whichever shall achieve such milestone first. 
+
+ 
+
+ 
+
+ 
+
+[†] 
+
+ 
+
+[†]
+
+[†] 
+
+ 
+
+[†]
+
+[†] 
+
+ 
+
+[†]
+
+[†] 
+
+ 
+
+[†]
+
+[†] 
+
+ 
+
+[†]
+
+[†] 
+
+ 
+
+[†]
+
+ 
+
+
+
+
+
+
+
+†
+
+ 
+
+
+
+
+
+ 
+
+     Royalty payment by Nura or any of its licensees will be due to ComGenex in the event of any and each compound, chemical entity or active substance specifically developed under this Agreement representing the therapeutically active part of a product is marketed by Nura and/or a licensee or any other third party. The resulting royalty rate will be [†]. 
+
+          5. Outsourced projects that are outlined in Appendix D will be reimbursed to ComGenex by Nura. These payments are in addition to the payments detailed in Appendix C. 
+
+          6. Except as set otherwise all payments will be 15 days from the date of invoice. 
+
+     Notices: 
+
+     All notices associated with this Agreement shall be by first class mail or courier, addressed to the respective parties as follows: 
+
+To ComGenex: 
+
+ComGenex, Inc.
+Attn: Laszlo Urge, Ph.D. CEO
+Zahony u. 7.
+Budapest, Hungary H-1031 
+
+To Nura: 
+
+Nura, Inc.
+Attn: Patrick W. Gray, Ph.D., CEO
+1124 Columbia Street
+Seattle WA, 98104 
+
+     The above named persons are acting on behalf of their respective organizations and may be changed on an as needed basis. 
+
+     F. Assignment: This Agreement may not be assigned or otherwise transferred by either party without the prior written consent of the other party, with such consent not to be unreasonably withheld; provided, however, that Nura or ComGenex may, without such consent, assign this Agreement and its rights and obligations hereunder to its Affiliates and parent corporations, or in connection with the transfer or sale of all or substantially all of the business to which this Agreement pertains, or in the event of its merger or consolidation or change in control or similar transaction. Any purported assignment in violation of the preceding sentences shall be void. Any permitted assignee shall assume all obligations of its assignee under this Agreement. “Affiliate” shall mean any company which directly or indirectly controls or is controlled by or is under common control with a party hereto by means of ownership of more than fifty percent (50%) of the voting stock or similar interest in said company. 
+
+     G. Safety: Each of the parties agrees that if it becomes aware of any safety hazard relating to any compound supplied or developed under this Agreement that it shall promptly notify 
+
+ 
+
+
+
+
+
+
+
+†
+
+ 
+
+
+
+
+
+ 
+
+the other party with all information in its possession or control concerning such safety hazard. Nura recognizes that the toxic effect of the compounds supplied or developed under this Agreement is not known and it may be toxic or harmful to human health. Nura agrees to take reasonably necessary precautions when handling such compounds. ComGenex will not be held responsible in any form if after delivery of such compounds to Nura the compounds cause harmful effects to any of Nura’s employees, contractors, consultants or any other parties. 
+
+     H. Entire Agreement: 
+
+          1. Except as provided herein with respect to the Appendices affixed hereto and the obligations provided in the CONFIDENTIAL DISCLOSURE AGREEMENT dated as of December 13, 2004 between parties, this Agreement represents the entire agreement of the parties with respect to the subject matter hereof and supersedes all prior communications, understandings and agreements with respect thereto. 
+
+          2. No waiver, change or modification of the provisions of this Agreement shall be effective unless it is in writing and signed by a duly authorized officer of ComGenex and Nura. Additional Appendices describing Projects in writing and signed by a duly authorized officer of ComGenex and Nura shall constitute part of this Agreement. 
+
+     I. Miscellaneous: 
+
+          1. The Parties agree that from time to time they may make public announcement relating to the collaboration, where certain information pertaining to the collaboration is disclosed in the form of a press release, press conference, an announcement associated with trade show, or reports for television or other media. No such public announcements are permitted under this Agreement without the express written approval of the other party. 
+
+          2. ComGenex represents and warrants that it will render the services hereunder in accordance with prevailing high professional standards and will make all reasonable efforts to produce consistently high levels of accuracy and expertise and to meet timetables set forth under this Agreement, and as described in Appendices B and C for completion of services. ComGenex further represents and warrants that ComGenex and any third party personnel assigned to perform services under this Agreement shall, in the opinion of ComGenex, have the skills necessary to efficiently perform such services and produce chemicals, data and/or reports, as the case may be, in a form and of a quality reasonably suitable to Nura. 
+
+          3. ComGenex is an independent company and nothing in this Agreement shall be construed to create a partnership, joint venture or employment relationship between the parties. 
+
+          4. If any provision hereof shall be determined to be invalid or unenforceable, such determination shall not affect the validity of the other provisions of this Agreement. 
+
+          5. This Agreement shall be governed in accordance with the laws of the State of Washington, USA, without regard to the conflicts of law provisions thereof. 
+
+ 
+
+
+
+
+
+
+
+†
+
+ 
+
+
+
+
+
+ 
+
+          6. Waiver by either party or the failure by either party to claim a breach of any provision of this Agreement shall not be deemed to constitute a waiver or estoppel with respect to any subsequent breach of any provision hereof. 
+
+          7. If any dispute arises with regard to the performance of this contract by either party, a good faith effort will be made by the parties to resolve such dispute by negotiation. If the parties fail to resolve the dispute through negotiation, each party shall have the right to pursue any other remedies legally available to resolve the dispute. The substantially prevailing party in any proceeding conducted to interpret or enforce this Agreement shall be entitled to be reimbursed by the other party for its reasonable attorneys’ fees and costs. 
+
+     IN WITNESS WHEREOF, the parties have caused this Agreement to be executed by their duly authorized representatives as of the date first written above. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+COMGENEX, INC.
+
+ 
+
+ 
+
+ 
+
+NURA. INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By: 
+
+ 
+
+/s/ Dr. Laszlo Urge 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By: 
+
+ 
+
+/s/ Patrick W. Gray 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name: 
+
+ 
+
+Laszlo Urge 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name: 
+
+ 
+
+Patrick W. Gray 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title: 
+
+ 
+
+CEO, Director 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title: 
+
+ 
+
+CEO 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date: 
+
+ 
+
+07 Feb 2005 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date: 
+
+ 
+
+27 Jan 2005 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+†
+
+ 
+
+
+
+
+
+ 
+
+Appendix A
+
+To that certain Master Services Agreement by and between Nura Inc., and ComGenex Inc.
+
+Materials Provided by Nura to ComGenex
+
+     [†] 
+
+ 
+
+
+
+
+
+
+
+†
+
+ 
+
+
+
+
+
+ 
+
+Appendix B
+
+To that certain Master Services Agreement by and between Nura Inc., and ComGenex Inc.
+
+     To the extent that any term or provision set forth in this Appendix B is inconsistent with any term or provision set forth in the Master Services Agreement, the Master Agreement shall be controlling. 
+
+ 
+
+
+
+
+
+
+
+†
+
+ 
+
+
+
+
+
+ 
+
+Table of Contents
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MASTER SERVICES AGREEMENT
+
+ 
+
+ 
+
+1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TABLE OF CONTENTS
+
+ 
+
+ 
+
+9
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+OBJECTIVE
+
+ 
+
+ 
+
+11
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DEFINITIONS
+
+ 
+
+ 
+
+11
+
+ 
+
+BACKGROUND
+
+ 
+
+ 
+
+11
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PROJECT SUMMARY
+
+ 
+
+ 
+
+12
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MILESTONES
+
+ 
+
+ 
+
+12
+
+ 
+
+SUBPROJECT 1: LEAD CANDIDATE GENERATION
+
+ 
+
+ 
+
+12
+
+ 
+
+SUBPROJECT 2: PROVISION OF HUMAN PDE10A. CLONING AND EXPRESSION
+
+ 
+
+ 
+
+12
+
+ 
+
+SUBPROJECT 3: ASSAY DEVELOPMENT, HTS
+
+ 
+
+ 
+
+12
+
+ 
+
+SUBPROJECT 4: COMPOUND OPTIMIZATION
+
+ 
+
+ 
+
+12
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TERMS
+
+ 
+
+ 
+
+13
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+INTELLECTUAL PROPERTY RIGHTS
+
+ 
+
+ 
+
+13
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ANNEXES
+
+ 
+
+ 
+
+14
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ANNEX 1: DETAILED PROJECT PLAN
+
+ 
+
+ 
+
+14
+
+ 
+
+[†]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Subproject 1: Lead Candidate Generation
+
+ 
+
+ 
+
+20
+
+ 
+
+[†]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Subproject 2: Provision of human PDE10a. Closing and expression
+
+ 
+
+ 
+
+23
+
+ 
+
+[†]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Subproject 3: Assay development, HTS
+
+ 
+
+ 
+
+25
+
+ 
+
+[†]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Subproject 4: Compound Optimization
+
+ 
+
+ 
+
+26
+
+ 
+
+[†]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PAYMENTS
+
+ 
+
+ 
+
+35
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DOWN PAYMENT
+
+ 
+
+ 
+
+35
+
+ 
+
+COST COVERAGE PAYMENTS
+
+ 
+
+ 
+
+35
+
+ 
+
+MILESTONE FEES
+
+ 
+
+ 
+
+36
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Milestone1
+
+ 
+
+ 
+
+36
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Milestone2
+
+ 
+
+ 
+
+37
+
+ 
+
+[†]
+
+ 
+
+ 
+
+38
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Milestone3
+
+ 
+
+ 
+
+39
+
+ 
+
+ 
+
+
+
+
+
+
+
+†
+
+ 
+
+
+
+
+
+ 
+
+Objective
+
+The objective is to create a potent, selective PDE10a inhibitor with drug-like properties that crosses the blood brain barrier. Potency should be less than [†] and selectivity greater than [†] fold against other PDEs. 
+
+Definitions
+
+  •
+
+ 
+
+Patentable Lead Candidate
+
+       Biologically active chemical entities, which are not covered by patent, and which may be transformed into a clinically useful drug by subsequent modification/optimization. 
+
+  •
+
+ 
+
+Focused library
+
+       A set of compounds in silico selected or screened for binding preferably to a specific biological target. The compounds are prepared by individual or parallel synthesis where the building blocks are connected to each other in many possible variations. 
+
+  •
+
+ 
+
+Advanced Lead
+
+       Compounds that possess desired properties (potency, selectivity, physicochemical, pharmacokinetic and toxicological characteristics) set by the Lead Criteria against the particular target. 
+
+  •
+
+ 
+
+Lead Criteria
+
+       A set of criteria, mutually agreed to by the parties and included as Annex 3. 
+
+  •
+
+ 
+
+Target
+
+       The biological target (binding partner) of the lead compounds to be developed (PDE10a). 
+
+Background
+
+Following the ongoing communication with Nura Inc., the above objectives were defined. In order to achieve these objectives three parallel approaches were discussed: 
+
+     [†] 
+
+     According to the discussions the following division of responsibility was defined: 
+
+     Nura responsibility: 
+
+     [†] 
+
+     ComGenex: 
+
+     [†] 
+
+ 
+
+
+
+
+
+
+
+†
+
+ 
+
+
+
+
+
+ 
+
+Project Summary
+
+
+
+Subproject 1: Lead Candidate Generation
+
+     [†] 
+
+Subproject 2: Provision of human PDE1Oa. Cloning and expression
+
+     [†] 
+
+Subproject 3: Assay development, HTS
+
+     [†] 
+
+Subproject 4: Compound Optimization
+
+     [†] 
+
+Terms
+
+Intellectual Property Rights
+
+     ComGenex shall retain no rights to any compound delivered to Nura. ComGenex shall have sole ownership of all right, title, and interest in and to ComGenex patent rights and ComGenex technology as well as any invention arising from ComGenex’ platform or technology that are not specific to the compounds or the related chemistry applied under this project. 
+
+No conflict
+
+     During the term of this Agreement, ComGenex will not participate in any program which has, as its goal, the development of compounds which target PDE10. 
+
+     [†] 
+
+ 
+
+
+
+
+
+
+
+†
+
+ 
+
+
+
+
+
+ 
+
+Subproject 1: Lead Candidate Generation
+
+     [†] 
+
+Subproject 2: Provision of human PDE10a. Cloning and expression
+
+     [†] 
+
+Subproject 3: Assay development, HTS
+
+     [†] 
+
+Subproject 4: Compound Optimization
+
+     [†] 
+
+Annex 2: Definitions of the targeted Lead Criteria
+
+     Potent, selective PDE10a inhibitors with drug-like properties that cross the blood brain barrier. [†] 
+
+     The above definitions are subjected to change during the whole project upon agreement of the Parties. 
+
+Annex 3: Initial Target information
+
+     cAMP and cAMP-inhibited cGMP 3’,5’-cyclic phosphodiesterase 10A (PDE10a) belongs to the cyclic nucleotide phosphodiesterase family. It plays a role in signal transduction by regulating the intracellular concentration of cyclic nucleotides. This enzyme can hydrolyze both cAMP and cGMP, having a higher affinity for cAMP. 
+
+     PDE10a is abundant in the putamen and caudate nucleus regions of brain and testis, it is moderately expressed in the thyroid gland, pituitary gland, thalamus and cerebellum. The protein is composed of a C-terminal catalytic domain containing two putative divalent metal sites and an N-terminal regulatory domain, which contains one putative cGMP-binding region. Several members of the PDE family were crystallized and a there is a wide range of known substrates and inhibitors. 
+
+Annex 4: CGX’ Know-how
+
+     Genetic engineering, protein expression and renaturation. 
+
+     At ComGenex we have extensive experience in genetic engineering and expressing sequences across various expression systems. We have developed unique protein renaturation capabilities for high yielding expression of functional proteins of your choice. We are active in the field of assay development and high-throughput screening. 
+
+ 
+
+
+
+
+
+
+
+†
+
+ 
+
+
+
+
+
+ 
+
+     RefoldAll™ is modular protein production service from subcloning and fermentation to protein purification, where renaturation is the key element of the process. With the integration of a combinatorial approach and sophisticated parameter optimization, we offer fast and efficient renaturation screens for your proteins. 
+
+     XpressXpert™ is a comprehensive modular protein expression service which delivers purified recombinant proteins according to client supplied DNA sequence data. We provide the following discrete modules: 
+
+  •
+
+ 
+
+cloning, subcloning
+
+ 
+
+
+
+
+
+  •
+
+ 
+
+target oriented choice of expression system
+
+ 
+
+
+
+
+
+  •
+
+ 
+
+protein expression in: E. coli, insect cells, mammalian cells
+
+ 
+
+
+
+
+
+  •
+
+ 
+
+protein purification development
+
+ 
+
+
+
+
+
+  •
+
+ 
+
+production scale-up
+
+     Darvas F., Dorman G., Papp A., Urge L., Molnár T., Borbola I., Lorincz Z. and Ambrus G. Development of a High-throughput Cytotoxicity Screening Method for Early Compound Filtering. 2004. Society for Biomolecular Screening 10th Anniversary Conference and Exhibition, Orlando, USA (September 11-15, 2004) 
+
+     Narayan M., Welker E. and Scheraga H.A. 2003. Native Conformational Tendencies in Unfolded Polypeptides: Development of a Novel Method To Assess Native Conformational Tendencies in the Reduced Forms of Multiple Disulfide-Bonded Proteins. J. Am. Chem. Soc. 125 (8); 2036-2037. 
+
+     Ambrus G., Gal P., Kojima M., Szilagyi K., Balczer J., Antal J., Graf L., Laich A., Moffatt B. E., Schwaeble W., Sim R. B. and Zavodszky P. 2003. Natural Substrates and Inhibitors of Mannan-Binding Lectin-Associated Serine Protease-1 and -2: A Study on Recombinant Catalytic Fragments. J. Immunol. 170, 1374-1382. 
+
+     Welker E., Narayan M., Wedemeyer W. J. and Scheraga H. A. 2001. Structural determinants of oxidative folding in proteins. PNAS, 98, 2312-2316. 
+
+     Kardos J., Gal P., Szilagyi L., Thielens N. M., Szilagyi K., Lorincz Z., Kulcsar P., Graf L., Arlaud G. J. and Zavodszky P. 2001. The role of the individual domains in the structure and function of the catalytic region of a modular serine protease, C1r J. Immunol 167, 5202-5208. 
+
+     Scheraga H. A., Wedemeyer, W. J. and Welker E. 2001. Bovine Pancreatic Ribonuclease A: Oxidative and Conformational Folding Studies. Methods in Enyzmology, 341: 189-221. 
+
+     EMIL™ -based analogue generation 
+
+     ComGenex has developed a knowledge base and software with Prof. Toshio Fujita (Kyoto) for bioanalogous lead evolution. The entry structures (validated hits, initial leads) are first imported into our EMIL software to create the bioanalogous expansion of the chemical space defined by the original hit molecules. 
+
+ 
+
+
+
+
+
+
+
+†
+
+ 
+
+
+
+
+
+ 
+
+     EMIL (Example Mediated Innovation for Lead Evolution) incorporates a knowledge base (collection of structural “evolution” examples) and an interactive search engine. By analyzing large number of biologically active compounds, several thousand structural “evolution” examples (from simple bioisosteric structural replacements to bioanalogous drastic skeletal changes) were identified and collected from literature into the EMIL database as virtual transformation rules. The resulting candidate lead structures could exhibit improved pharmacological/ pharmacokinetic characteristics, and help to reach novel intellectual property (IP) position. 
+
+     Fujita T., Adachi M., Akamatsu M., Asao M. and Fukami H. Background and Features of EMIL, A System for Database-aided Bioanalogous Structural Transformation of Bioactive Compounds. 1995. QSAR and Drug Design: New Developments and Applications, Pharmacochemistry Library, Vol. 23 (Ed. Fujita T), pp. 235-273. Elsevier, Amsterdam, 1995. 
+
+     Papp A., Fujita T. and Darvas F. The implementation of an expert system for evolving pharmaceutical leads. Eurocombi 1, Budapest, July 1-5, 2001. 
+
+     Darvas F, Fujita T. and Papp A. A Web-based Tool for Building Bioanalogous Libraries, DDJ Japan, Tokyo, Jan 28, 2002. 
+
+     EMIL™-Select™ for target family-based drug design 
+
+     In the post-genomic drug discovery large enzyme families are investigated parallel in order design selective inhibitors for many related isoforms in one combined research effort. Chemogenomics is a bioinformatics-driven approach to explore the ligand-target knowledge space based on the genetic (sequence homology) divergence of target family members. 
+
+     This design approach identifies the major molecular determinants of the target-family (privileged structures/ special recognition features) and virtual transformations leading selectivity within the family. Using the knowledge base, which is an extension of the original EMIL™ concept (EMIL-Select™) scaffolds or robust inhibitors can be transformed into selective inhibitors (‘selectivity jumping’). 
+
+     Darvas F., Dorman G., Papp A., Szommer T., Ambrus G., Fujita T., Urge L. Novel chemogenomics approach to design selective MMP inhibitors, Society for Biomolecular Screening 10th Anniversary Conference and Exhibition, Orlando, USA (September 1115, 2004). 
+
+     Darvas F., Dorman G., Krajcsi P., Puskas L., Kovari Z., Lorincz Z. and Urge L. 2004. Recent advances in chemical genomics. Curr. Med. Chem. (in press). 
+
+     Lead Multiplier™ technology 
+
+     ComGenex’ Lead Multiplier™ technology is designed to integrate proprietary chemoinformatics tools in order to select, optimize and prioritize novel chemically distinct lead classes (de novo focused libraries) against particular targets for hit validation and lead explosion. 
+
+ 
+
+
+
+
+
+
+
+†
+
+ 
+
+
+
+
+
+ 
+
+     The program utilizes a unique medicinal chemistry knowledge based expert system, a proprietary similarity search tool, in silico pharmacokinetic filtering and diversity assessing methods. Lead Multiplier™ Focused Library demonstrates pharmaceutically relevant structural complexity and at the same time remains chemically distant from the original lead structures. 
+
+     Successful applications: 
+
+     Dorman G, Gulyas-Forro A, Darvas G, Urge L, Sasvari-Szekely M, Sziraki M. Bioanalogous structure evolution for new lead generation. Design and discovery of novel dopamine transporter inhibitors. ISMC2004, Copenhagen, August 15-1 9, 2004. 
+
+     Patents: 
+
+     Development of novel compounds for reversing Multi-Drug Resistance, (ComGenex with Solvo Biotech), Hung Pat Appl. P01-05401; 2001. 
+
+     Compounds having inhibitive activity of phosphatidylinositol 3-kinase and methods of use thereof. (ComGenex with Echelon Bioscience, Salt Lake City, UT, two joint patents filed in 2004 for two separate compound series, PCT 21958.PROV, PCT 21780.PROV). 
+
+     CMT™ (ComGenex Matrix Technology) 
+
+     ComGenex has developed its proprietary HT parallel chemistry platform, referred to as ComGenex Matrix Technology (CMT™). It utilizes manual and robotized parallel synthesis stations of different size that reflects the cascading diversity building approach. CMT™ is practically a technological line that also contains state-of-the-art selection methods database management, reaction piloting, HT purification and analytics. 
+
+     Examples for successful application of CMT™: 
+
+     Varga L, Nagy T, Kovesdi I, Benet-Buchholz J, Dorman D, Urge L. and Darvas F. 2003. Solution-phase parallel synthesis of 4,6-diaryl-pyrimidine-2-ylamines and 2-amino-5,5-disubstituted-3,5-dihydro-imidazol-4-ones via a rearrangement, Tetrahedron, 59 (5) 655-662. 
+
+     Gerencser J., Panka G., Nagy T., Egyed O., Dorman G., Urge L. and Darvas F. 2004. A versatile procedure for the parallel preparation of 3-imidazo[l,2-a]pyridin-3-yl-propionic acid derivatives involving Meldrum’s acid, J. Comb. Chem. (in press). 
+
+     Innovative chemical technologies: 
+
+     —H-Cube: A microfluidics-based continuous flow hydrogenation device 
+
+     This novel device, which is co-developed with Thales Nanotechnologies, (www.thalesnano.com) enables high-yield hydrogenation with improved selectivity. 
+
+     Darvas F., Godorhazy L., Panka G., Bucsai A. and Dorman G. Development and application of microchannel flowreactor for parallel hydrogenation. ACS, Philadelphia, August 22-28, 2004. 
+
+ 
+
+
+
+
+
+
+
+†
+
+ 
+
+
+
+
+
+ 
+
+     Jones R., Godorhazy L., Panka G., Szalay D., Dorman G., Urge L. and Darvas F. A compact, continuous flow device for high-pressure heterogeneous hydrogenation, J. Comb. Chem. (in press). 
+
+     —MW: microwave heating 
+
+     Integration of microwave heating into CMT enables to perform difficult chemical transformations, multicomponent reactions that are typically carried out in low yield and long reaction time. 
+
+     Urge L. Integration of Microwave assisted chemistry into high-throughput chemistry platform. The Pros and Cons. Conference on Microwave-Assisted Organic Synthesis, Boston, Nov. 11-13, 2004. 
+
+     In silico ADME (BBB penetration, CNS likeness) prediction 
+
+     ComGenex together with CompuDrug has developed a software family (Pallas™), which helps to filter out, compounds early in the drug discovery pipeline, practically in the design phase. The software allows the prediction of physicochemical parameters (pKa, LogP, LogD), metabolism, and toxicity. 
+
+     Darvas F., Keseru G., Papp A., Dorman G., Urge I., Krajcsi P. 2002. In silico and Ex Silico ADME Approaches for Drug Discovery, Current Topics in Medicinal Chemistry, 2, 1269-1277. 
+
+     Dorman G. and Darvas F. 2002. HT Prediction, Virtual and Experimental Screening of Drug Absorption, In: HT ADMETox estimation based on in vitro and in silico approaches, F. Damas, G. Dorrnan (Eds.), BioTechniques Press, Eaton Publishing, Westborough, MA, USA. 25-40pp. 
+
+     Molnar L.., Keseru G., Papp A., Gulyas Z. and Darvas F. 2004. A Neural Network Based Prediction of Octanol-Water Partition Coefficients Using Atomic5 Fragmental Descriptors, Bioorg. Med. Chem. Letters, 14(4), 851 -853 
+
+     ChemprobeTM tethering strategy 
+
+     ComGenex has developed a novel tethering strategy where a representative subset is designed around the core structure of known active compounds or combinatorial compound libraries with appropriate terminal functional groups. 
+
+     Dorman G., Reynolds D., Puskas L., Urge L. and Damas F. Immobilized surrogate compound libraries for rapid affinity profiling Eurocombi-2, Copenhagen, Jun 29-July 3,2003 
+
+     Hackler L., Dorman G., Kele Z., Urge L., Damas F. and Puskas L. 2003. Development of chemicaly modified glass surfaces for nucleic acid, protein and small molecule microarrays, Mol. Div. 7, 25-36 
+
+ 
+
+
+
+
+
+
+
+†
+
+ 
+
+
+
+
+
+ 
+
+     FlashTag™ covalent labeling strategy 
+
+     The major feature of covalent-bond forming libraries is a creation of a stable linkage between small molecules and biopolymers targeted by the ligand or substrate toward the active site. As the stable covalent linkage survives proteolysis, chemical fragmentation and sequencing, and the small molecule trapped within the active site during the entire manipulation, this technique enables the identification of the binding site. Combining with chemprobe™ combinatorial tethering approach the architecture of the binding site can be investigated. 
+
+     Dorman G. and Prestwich G.D. 2000. Using Photolabile Ligands in Drug Discovery and Development. Trends in Biotech. 18(2): 64-77 
+
+     Dorman G., Krajcsi P. and Damas F. 2001. Chemical Library Approaches to Target Validation in the Post-Genomic Era. Current Drug Discovery (October 2001), pp 21-24 
+
+     Dorman G. and Damas F.2004. Utilizing small molecules in chemical genomics: toward HT approaches, In: Chemical Genomics, Eds. Ferenc Darvas, Andras Gut™ Gyogy Dorman, Marcel Dekker, New York, Basel, 2004, pp. 137-197 
+
+     Diversity selection: the ED1 concept 
+
+     ComGenex developed and employ for selection and library characterization a novel diversity assessing approach, the Explicit Diversity Index (EDI). It combines structural dissimilarity and core representativeness. 
+
+     Gulyas-Forro A., Dorman G., Papp A., Gulyas Z., Urge L. and Darvas F. Explicit Diversity Index (EDI): A Novel Measure for Assessing the Diversity of Compound Databases, J. Chem. Inf Comp. Sci. (in press) 
+
+     Multiparametric QSAR approach 
+
+     Ferenc Darvas developed a multiparametric QSAR design approach and successfully employed in the area of CNS active drug design which lead to the development of deramciclane (The compound is presently in Phase-IV at Orion, Pfizer — Pharmacia Upjohn.) 
+
+     Darvas F., Lopata A., Budai Z. and Petocz L. 1984. Computer Assisted Design of a Novel Type of Tranquillant. QSAR and Strategies in the Design of Bioactive Compounds, 5th European Symp. on QSAR, Bad Segeberg,l984 (Ed. Seydal JK), pp. 324-327. VCH, Weinheim, Germany. 
+
+     Darvas F., Lopata A., Budai Z. and Petocz L. 1984. Prediction of Therapeutical lndex for a Novel Type of Tranquillant. QSAR in Toxicology and Xenobiochemistry, Bad Segeberg, Germany,1985 (Ed. Tichy M), pp. 324-327. Elsevier, Amsterdam. 
+
+     Parallel Lead Optimization Approach 
+
+ 
+
+
+
+
+
+
+
+†
+
+ 
+
+
+
+
+
+ 
+
+     The core of the ComGenex’ Parallel Lead Optimization Program is HT medicinal chemistry supported by QSAR modeling and EMIL™ (example-Mediated Innovation for Lead Evolution). Other supporting elements are: broad spectrum of in silico and in vitro ADMETox methods; complementing with ADMETox prefiltered screening libraries; ActiVerse™, prescreened targeted libraries; FlashTag™, a photomarker library for covalent protein tagging; HT Analytical services. ComGenex integrated these approaches into a service package, allowing the R&D activities to proceed simultaneously shortening the average preclinical development phase. 
+
+     Krajcsi P., Dorman G., Karancsi T., Papp A., Kalman F., Nagy T., Szabo I., Urge L. and Darvas F. Parallel Lead Optimization Program Supported by EMlL Expert System — SBS, Den Haag, Sept 23-26, 2002 
+
+     Darvas F., Krajcsi P., Urge L., Dorman G., Karancsi T., Papp A., and Fujita T. Lead Optimization Program with Parallel Design — DDJapan, Jan 28-31, 2002 
+
+ 
+
+
+
+
+
+
+
+†
+
+ 
+
+
+
+
+
+ 
+
+Confidential
+
+Appendix C
+
+To that certain Master Services Agreement by and between Nura Inc., and ComGenex Inc.
+
+     To the extent that any term or provision set forth in this Appendix C is inconsistent with any term or provision set forth in the Master Services Agreement, the Master Agreement shall be controlling. 
+
+ 
+
+
+
+
+
+
+
+†
+
+ 
+
+
+
+
+
+ 
+
+Payments
+
+Down Payment
+
+ 
+
+ 
+
+ 
+
+Amount due
+
+ 
+
+Amount to be paid
+
+January 27, 2005 
+
+ 
+
+[†]
+
+Cost Coverage Payments
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Amount due
+
+ 
+
+Amount billed
+
+ 
+
+Amount to be paid
+
+Milestone 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+February 15, 2005 
+
+ 
+
+[†] 
+
+ 
+
+[†]
+
+March 15, 2005 
+
+ 
+
+[†] 
+
+ 
+
+[†]
+
+April 15, 2005 
+
+ 
+
+[†] 
+
+ 
+
+[†]
+
+Subtotal 
+
+ 
+
+ 
+
+ 
+
+[†]
+
+Milestone 2
+
+ 
+
+ 
+
+ 
+
+ 
+
+May 15, 2005 
+
+ 
+
+[†] 
+
+ 
+
+[†]
+
+June 15, 2005 
+
+ 
+
+[†] 
+
+ 
+
+[†]
+
+July 15, 2005 
+
+ 
+
+[†] 
+
+ 
+
+[†]
+
+August 15, 2005 
+
+ 
+
+[†] 
+
+ 
+
+[†]
+
+Subtotal 
+
+ 
+
+ 
+
+ 
+
+[†]
+
+Milestone 3
+
+ 
+
+ 
+
+ 
+
+ 
+
+September 15, 2005 
+
+ 
+
+[†] 
+
+ 
+
+[†]
+
+October 15, 2005 
+
+ 
+
+[†] 
+
+ 
+
+[†]
+
+November 15, 2005 
+
+ 
+
+[†] 
+
+ 
+
+[†]
+
+December 15, 2005 
+
+ 
+
+[†] 
+
+ 
+
+[†]
+
+Subtotal 
+
+ 
+
+ 
+
+ 
+
+[†]
+
+Total
+
+ 
+
+[†]
+
+ 
+
+[†]
+
+     Down Payment and Cost Coverage Payments are due within 15 days after receipt by Nura of the appropriate invoice from ComGenex. 
+
+ 
+
+
+
+
+
+
+
+†
+
+ 
+
+
+
+
+
+ 
+
+Milestone fees
+
+     Milestone Fee Payments are due within 15 days after receipt by Nura of the appropriate invoice from ComGenex. Each invoice shall be accompanied by a report from ComGenex detailing the particular tasks relating to the invoice and accomplished by ComGenex according to the “Project” plan pursuant to Appendix B. 
+
+Milestone 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Subproject 1
+
+ 
+
+If CGX delivers to Nura
+
+ 
+
+Fee Due
+
+[†] 
+
+ 
+
+[†] 
+
+ 
+
+[†]
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Subproject 2
+
+ 
+
+If CGX delivers to Nura
+
+ 
+
+Fee Due
+
+[†] 
+
+ 
+
+[†] 
+
+ 
+
+[†]
+
+ 
+
+
+
+
+
+
+
+†
+
+ 
+
+
+
+
+
+ 
+
+Milestone 2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Subproject 1
+
+ 
+
+If CGX delivers to Nura
+
+ 
+
+Fee Due
+
+[†] 
+
+ 
+
+[†] 
+
+ 
+
+[†]
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Subproject 2
+
+ 
+
+If CGX delivers to Nura
+
+ 
+
+Fee Due
+
+[†] 
+
+ 
+
+[†] 
+
+ 
+
+[†]
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Subproject 3
+
+ 
+
+If CGX delivers to Nura
+
+ 
+
+Fee Due
+
+[†] 
+
+ 
+
+[†] 
+
+ 
+
+[†]
+
+ 
+
+
+
+
+
+
+
+†
+
+ 
+
+
+
+
+
+ 
+
+Optional items to Milestone 2
+
+     To be paid as Milestone Fee only (cost coverage is incorporated in the Milestone Fee). Optional items to be performed only at the written request of Nura. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Optional
+
+ 
+
+If CGX delivers to Nura
+
+ 
+
+Fee Due
+
+[†] 
+
+ 
+
+[†] 
+
+ 
+
+[†]
+
+     The cost and the fee for the following optional items will be determined later 
+
+Preliminary biological screening
+
+in vitro screening
+
+  •
+
+ 
+
+[†]
+
+ 
+
+
+
+
+
+
+
+†
+
+ 
+
+
+
+
+
+ 
+
+Milestone 3
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Subproject 3
+
+ 
+
+If CGX delivers to Nura
+
+ 
+
+Fee Due
+
+[†] 
+
+ 
+
+[†] 
+
+ 
+
+[†]
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Subproject 4
+
+ 
+
+If CGX delivers to Nura
+
+ 
+
+Fee Due
+
+[†] 
+
+ 
+
+[†] 
+
+ 
+
+[†]
+
+ 
+
+
+
+
+
+
+
+†
+
+ 
+
+
+
+
+
+ 
+
+Optional items to Milestone 3
+
+     To be paid as Milestone Fee only (costTo be paid as Milestone Fee only (cost coverage is incorporated in the Milestone Fee). 
+
+Optional items to be performed only at the written request of Nura. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Optional
+
+ 
+
+If CGX delivers to Nura
+
+ 
+
+Fee Due
+
+[†] 
+
+ 
+
+[†] 
+
+ 
+
+[†]
+
+ 
+
+
+
+
+
+
+
+†
+
+ 
+
+
+
+
+
+ 
+
+Appendix D
+To that certain Master Services Agreement by and between Nura Inc.,
+and ComGenex Inc.
+
+Confidential
+
+Parties agree that the following costs will be reimbursed to ComGenex by Nura Inc: 
+
+1, Reasonable costs for obtaining commercially available recombinant PDE10a that is supplied to facilitate early stage assay development. This cost incurs until sufficient amounts of recombinant PDE10a from internal sources become available for assay development and screening. 
+
+2, If Nura requests optional selectivity screening as described in Appendix B; the costs of selectivity studies to be performed on various PDE isotypes with ComGenex compounds. 
+
+3, If Nura requests real time PCR experiments, or other cell based assays that are not detailed in Appendix B, the cost of these studies are borne by Nura. 
+
+ 
+
+
+
+
+
+
+
+†
+
+ 
+
+DESIGNATES PORTIONS OF THIS DOCUMENT THAT HAVE BEEN OMITTED PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT FILED SEPARATELY WITH THE COMMISSION
+
+-8-
+

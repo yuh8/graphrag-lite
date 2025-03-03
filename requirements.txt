@@ -1,0 +1,7 @@
+numpy
+networkx
+PyMuPDF
+graspologic
+aiohttp_retry
+tiktoken
+future
